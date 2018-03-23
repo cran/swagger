@@ -1,6 +1,7 @@
-168115c79dfad988f2c32b22ddc84f57 *DESCRIPTION
+e8edee2ffdbf4b3f73d8a3a39ec14022 *DESCRIPTION
 c630bed3879e35b6a52ed5c7e2fb4ce2 *LICENSE
 a70bc1650db110ea026cb24fbf372eef *NAMESPACE
+f238cea4acd5356826b50d9352d2ac09 *NEWS.md
 9a6f03bad5f95528775a8cabf7788f2c *R/paths.R
 23c4a24c231ed3731696857b9c051565 *R/swagger.R
 bb04017797fd7862f42843006099241c *inst/COPYRIGHTS
@@ -8,10 +9,10 @@ bb04017797fd7862f42843006099241c *inst/COPYRIGHTS
 1b4ded0a3a8df6ef220b4b79f5c10b44 *inst/dist/favicon-32x32.png
 90b1912dcf0bb7faeedfcb59a24707e5 *inst/dist/index.html
 d29083c83395bb1335f7f3d7fa8e233c *inst/dist/oauth2-redirect.html
-25e5368a281a075c6105d7a6e213b9a0 *inst/dist/swagger-ui-bundle.js
-215d86d78fabaa7f497ba76816219189 *inst/dist/swagger-ui-standalone-preset.js
-cc14ad31f374cecf4412d2ed62c038b7 *inst/dist/swagger-ui.css
-08a7cd3686bc595d92a8cf06f5b1f1d2 *inst/dist/swagger-ui.js
+8fd770bdd86f15c62607c941f41f9b25 *inst/dist/swagger-ui-bundle.js
+0249871cc13a7b225a23a6382f2539bf *inst/dist/swagger-ui-standalone-preset.js
+fe056bc5799390e85e81b0e37ffb5ff0 *inst/dist/swagger-ui.css
+65bf8609604a19b8e7621674e8c0fb7f *inst/dist/swagger-ui.js
 86e0972ea23ee53893cb99daacbd3006 *man/swagger-package.Rd
 494563e58e431bb0ec2a7e2a6ea5a843 *man/swagger_index.Rd
 258e33471f662565ed1c5fcdb348a333 *man/swagger_path.Rd
