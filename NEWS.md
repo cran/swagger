@@ -1,6 +1,8 @@
-# Swagger 3.9.3 (UNRELEASED)
+# Swagger 3.33.0
 
-- Adds support for Swagger 3.9.3
+- Adds support for Swagger 3.33.0
+- Added major version support to `swagger_index(version = "3")` and `swagger_path(version = "3")`
+- Added `swagger_spec(version)` which will open the `swagger_index()` with a pre-populated OpenAPI path
 
 # Swagger 3.4.0
 
