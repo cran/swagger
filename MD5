@@ -1,7 +1,7 @@
-8ad131a10d07eca24a15c3b10689a2d2 *DESCRIPTION
+b5bd12f68047eb63bd835a84256be345 *DESCRIPTION
 c630bed3879e35b6a52ed5c7e2fb4ce2 *LICENSE
 f0357c2320592391e2e7b92f8a48ab7a *NAMESPACE
-d1f8ee02156293b760de26d5a583760a *NEWS.md
+84e43ecd7d37bc01765aecd0df8a2c66 *NEWS.md
 9aee549e5cb9bc8512292337da481f88 *R/paths.R
 4aeb2ddd6e6a65ec289eb7531f790645 *R/plumber.R
 68517152ec0154169c73fcb4731f958b *R/swagger.R
@@ -9,7 +9,7 @@ bb04017797fd7862f42843006099241c *inst/COPYRIGHTS
 7ca5ebff3b35e49ef75f96885c6ed7c2 *inst/dist3/absolute-path.js
 f0ae831196d55d8f4115b6c5e8ec5384 *inst/dist3/favicon-16x16.png
 40d4f2c38d1cd854ad463f16373cbcb6 *inst/dist3/favicon-32x32.png
-e5082f6a9349cc2f69cbcd3e738b4a66 *inst/dist3/index.html
+4e0b9fc0cb6691f5d8a9eb9e1073f757 *inst/dist3/index.html
 4843f77ccf9e12e7e60efa279baaffb3 *inst/dist3/index.js
 29cac61cf6bb191f8df6262893bc31bd *inst/dist3/oauth2-redirect.html
 8cbfc751f266be40dda86359521333ac *inst/dist3/package.json
@@ -25,5 +25,5 @@ c311ad3efec1866097bd590c6ed1b95b *man/swagger-package.Rd
 c7750b3c8815d0dddab93c49d871c7ab *tests/testthat.R
 820c842562327eed1fccbafdd936f15d *tests/testthat/test-md5sum.R
 a083ed519353c83b137656627346dbda *tests/testthat/test-swagger.R
-89bf877351871635e5a0dc1c5aa35766 *tools/download_swagger_ui.R
+ca36c756465f01799c368198d697f82d *tools/download_swagger_ui.R
 02f3b7907bad6c023e940b444910ae3a *tools/readme/browse_swagger.png
