@@ -19,16 +19,18 @@ To learn more about Swagger visit: \url{https://swagger.io/swagger-ui/}
 \seealso{
 Useful links:
 \itemize{
+  \item \url{https://rstudio.github.io/swagger/}
   \item \url{https://github.com/rstudio/swagger}
   \item Report bugs at \url{https://github.com/rstudio/swagger/issues}
 }
 
 }
 \author{
-\strong{Maintainer}: Barret Schloerke \email{barret@rstudio.com}
+\strong{Maintainer}: Bruno Tremblay \email{cran@neoxone.com} [contributor]
 
 Authors:
 \itemize{
+  \item Barret Schloerke \email{barret@rstudio.com} (\href{https://orcid.org/0000-0001-9986-114X}{ORCID})
   \item Javier Luraschi \email{javier@rstudio.com}
   \item  SmartBear Software [copyright holder]
 }
